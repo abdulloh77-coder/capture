@@ -1,0 +1,197 @@
+.efood{
+    width: 1380px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.a1{
+    text-decoration: none;
+    color: #363853;
+    font-size: 18px;
+}
+.nav1{
+    margin-left: 670px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.button1{
+    width: 120px;
+    height: 50px;
+    background-color: #FF7A50;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    opacity: 0.9;
+    box-shadow: 0px 3px 10px rgb(241, 124, 89);
+}
+.a1:hover{
+    color: #FF6838;
+    
+}
+.box{
+    display: flex;
+    width: 1200px;
+    margin-left: 100px;
+}
+.box1{
+  
+    height: 400px;
+    width: 500px;
+}
+.hh{
+    font-size: 66px;
+    font-weight: 700;
+    color: #363853;
+}
+.span1{
+    color: #FF7A50;
+}
+.p1{
+    font-size: 20px;
+}
+.button2{
+    width: 163px;
+    height: 50px;
+    background-color: #FF6838;
+    border: none;
+    font-size: 16px;
+    border-radius: 6px;
+    color: #fff;
+    opacity: 0.9;
+    box-shadow: 0px 3px 10px rgb(241, 124, 89);
+}
+.card{
+    color: #FF6838;
+    font-size: 36px;
+}
+.fod{
+    color: #363853;
+}
+.box2{
+    display: flex;
+}
+.vib{
+    width: 400px;
+    margin-left: 140px;
+}
+.img3{
+    margin-left: 60px;
+}
+.button3{
+    width: 176px;
+    height: 50px;
+    background-color: #FF6838;
+    border: none;
+    color: #fff;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    opacity: 0.9;
+    box-shadow: 0px 3px 10px rgb(241, 124, 89);
+}
+.fut{
+    color: #FF6838;
+}
+.restart{
+    text-align: center;
+}
+.nic{
+    width: 361px;
+    height: 417px;
+    background-color: #f0f0f0;
+    border-bottom-right-radius: 45px;
+    border-top-left-radius: 45px;
+    margin-left: 80px;
+}
+b{
+    color: #363853;
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+.box3{
+    display: flex;
+    gap: 7px;
+}
+.coin{
+    color: #FF6838;
+}
+.moon1{
+    width: 500px;
+    margin-left: 50px;
+}
+.moon{
+    display: flex;
+}
+.hug{
+    margin-left: 150px;
+}
+footer{
+    background-color: #FF7A50;
+    height: 312px;
+    width: 1380px;
+    border-radius: 10px;
+    margin: auto;
+}
+.guf{
+    width: 79px;
+    height: 33px;
+    background-color: #FF6838;
+    border: none;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+     opacity: 0.9;
+    box-shadow: 0px 3px 7px rgb(241, 124, 89);
+    margin-left: 17px;
+}
+.good{
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.rot{
+  margin-left: 10px;
+    color: #363853;
+}
+.time{
+    margin-left: 20px;
+}
+.card2{
+    width: 838.5px;
+height: 78px;
+top: 3156.45px;
+left: 303.75px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 70px;
+background-color: white;
+margin: auto;
+
+}
+.card2 input{
+    border: none;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+.sui{
+    width: 191px;
+height: 58.5px;
+top: 3166px;
+left: 941.4px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 70px;
+border-width: 1px;
+background-color: #FF6838;
+color: #fff;
+margin-left: 400px;
+
+}
